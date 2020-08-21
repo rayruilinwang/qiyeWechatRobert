@@ -1,0 +1,13 @@
+Package: qiyeWechatRebort
+Type: Package
+Title: Using Qiye Wechat Robert API send messages 
+Version: 0.1.0
+Author: Ray Wang
+Maintainer: Ray Wang <ficona@sina.com>
+Description: Send text type message, image type message and markdown type message using Qiye Wwchat API.
+License: GPL-3
+Encoding: UTF-8
+Depends: R(>= 3.3)
+Suggests: httr, tools, base64enc
+LazyData: true
+RoxygenNote: 7.1.1
